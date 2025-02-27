@@ -1,0 +1,12 @@
+file_format: "1"
+id: MFEC34
+name: MFEC34
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+url: https://github.com/chandler5314/MFEC34-zmk-module
+
